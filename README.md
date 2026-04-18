@@ -1,4 +1,4 @@
-# Whirlpool-Model
+# Whirlpool-SDLC-Model
 Whirlpool model is proposed to overcome the delay issues in s/w and make boost to s/w in this model user feedback and validation is key points its focuses on user centric perspectives. 
 Traditional SDLC models either lack continuous feedback (Waterfall) or lack structured phases (Agile).
 There is a need for a model that combines structured development with continuous user validation.
@@ -20,36 +20,35 @@ EXPECTED OUTCOMES
   🌀 WHIRLPOOL MODEL 
 📌 DEFINITION 
 Whirlpool Model is an iterative, user-centric SDLC model where each phase is executed in multiple rounds with continuous customer validation until user satisfaction is achieved.
+
 ⚙️ PHASES 
-Customer Communication
-Customer Validation
-Planning
-Design
-Construction
-Testing
-Maintenance
+1)Customer Communication
+2)Customer Validation
+3)Planning
+4)Design
+5)Construction
+6)Testing
+7)Maintenance
+
 🔁 KEY CONCEPT 
 Each phase runs in multiple rounds
 Continuous feedback is taken
 Process repeats until satisfaction
+
 🎯 FEATURES 
-User-centric
-Fast development
-Continuous improvement
+1]User-centric
+2]Fast development
+3]Continuous improvement
+
 📊 COMPARISON 
 MODEL 
-LIMITATION 
-Whirlpool Advantage
-WATERFALL 
-No feedback
-Continuous validation
-AGILE 
-Less structure
-Clear phases + feedback
+Waterfall--> No feedback during process
+Agile--> Flexible but less structured 
+Whirlpool--> Structured phases + continuous feedback 
 USE CASE 
-Startups
-Custom apps
-UI-focused systems
+1)Startups
+2)Custom apps
+3)UI-focused systems
 👤 AUTHOR 
 Bhagwat Manwatkar
 📅 CREATED 
