@@ -22,33 +22,33 @@ EXPECTED OUTCOMES
 Whirlpool Model is an iterative, user-centric SDLC model where each phase is executed in multiple rounds with continuous customer validation until user satisfaction is achieved.
 
 ⚙️ PHASES 
-1)Customer Communication
-2)Customer Validation
-3)Planning
-4)Design
-5)Construction
-6)Testing
-7)Maintenance
+1. Customer Communication
+2. Customer Validation
+3. Planning
+4. Design
+5. Construction
+6. Testing
+7. Maintenance
 
 🔁 KEY CONCEPT 
-Each phase runs in multiple rounds
-Continuous feedback is taken
-Process repeats until satisfaction
+- Each phase runs in multiple rounds
+- Continuous feedback is taken
+- Process repeats until satisfaction
 
 🎯 FEATURES 
-1]User-centric
-2]Fast development
-3]Continuous improvement
+1. User-centric
+2. Fast development
+3. Continuous improvement
 
 📊 COMPARISON 
 MODEL 
-Waterfall--> No feedback during process
-Agile--> Flexible but less structured 
-Whirlpool--> Structured phases + continuous feedback 
-USE CASE 
-1)Startups
-2)Custom apps
-3)UI-focused systems
+1. Waterfall--> No feedback during process
+2. Agile--> Flexible but less structured 
+3. Whirlpool--> Structured phases + continuous feedback 
+USE CASE
+1.Startups
+2.Custom apps
+3.UI-focused systems
 👤 AUTHOR 
 Bhagwat Manwatkar
 📅 CREATED 
